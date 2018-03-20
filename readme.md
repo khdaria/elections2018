@@ -9,15 +9,15 @@ These are the results of the Russian presidential election which was held on 18 
 
 ## Variables
 
-`voters_in_list` - the number of voters included in the voters list)
+`voters_in_list` - the number of voters included in the voters list
 
 `ballots_received` - the number of ballots received by the precinct election commission
 
 `ballots_issued_early` - the number of ballots issued to voters who voted early 
 
-`ballots_issued_polling_st` - the number of ballots issued in a polling station on election day
+`ballots_issued_polling_st` - the number of ballots issued in a polling station on the election day
 
-`ballots_issued_outside_polling_st` - the number of ballots issued outside the polling station on voting day
+`ballots_issued_outside_polling_st` - the number of ballots issued outside the polling station on the election day
 
 `canceled_ballots` - the number of canceled ballot
 
